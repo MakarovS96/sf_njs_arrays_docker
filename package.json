@@ -1,0 +1,14 @@
+{
+  "name": "sf_njs_arrays_docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sf_njs_arrays": "^1.0.1"
+  }
+}
